@@ -7,7 +7,7 @@ export default function Home() {
       <section className="bg-sky-600 text-white py-24 px-6">
         <div className="max-w-6xl mx-auto">
           <h1 className="text-5xl font-bold">
-            Bright Smile Dental Clinic
+            Clinic Name Placeholder
           </h1>
 
           <p className="mt-4 text-lg">
