@@ -71,6 +71,12 @@ Planned enhancements for production use:
 
 ## 📸 Screenshots
 
-_Add screenshots here (VERY important for portfolio impact)_
+### 🏠 Home Page
+![Home Page](docs/screenshots/home.png)
 
-Example:
+### 🦷 Booking System
+![Booking](docs/screenshots/booking.png)
+
+### 🧑‍💼 Admin Dashboard
+![Admin](docs/screenshots/admin-dashboard.png)
+
