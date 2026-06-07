@@ -54,6 +54,21 @@ A modern full-stack dental clinic management system built with **Next.js, Supaba
 
 ---
 
+## 📈 Roadmap / Future Improvements
+
+Planned enhancements for production use:
+
+- 🔐 Role-based authentication (Admin / Doctor / Patient)
+- 📧 Email notifications for appointment confirmation
+- 📱 WhatsApp/SMS reminders for bookings
+- 🗓 Calendar UI for better scheduling (like Google Calendar)
+- 💳 Payment integration for consultations
+- 👤 Patient login and profile management
+- 📊 Advanced analytics dashboard for admin
+- ☁️ Multi-clinic support (SaaS expansion)
+
+---
+
 ## 📸 Screenshots
 
 _Add screenshots here (VERY important for portfolio impact)_
